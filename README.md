@@ -29,6 +29,9 @@
 <Font color="coral">
 
 * Chain Pickerel (*Esox niger*)
+
+![Pickerel](./Pickerel.JPEG)
+
  
 
 
